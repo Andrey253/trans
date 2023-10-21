@@ -37826,7 +37826,7 @@ if(p<q){k=j.rG(p)
 if(s.$2(a,k)>0){j.b[b]=k
 b=p}}j.b[b]=a}}
 A.Dp.prototype={
-M(a){return new A.tU(B.FE,"Flutter Demo",A.aga(null,A.alZ(B.Y,B.Fk),!0),null)}}
+M(a){return new A.tU(B.FE,"\u041f\u0435\u0440\u0435\u0432\u043e\u0434\u0447\u0438\u043a \u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u044b\u0445 \u0441\u043b\u043e\u0432 \u0432 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u0435",A.aga(null,A.alZ(B.Y,B.Fk),!0),null)}}
 A.u5.prototype={
 ai(){return new A.xN(A.ag_(null),A.ag_(null),B.k)}}
 A.xN.prototype={
